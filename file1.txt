@@ -1,5 +1,4 @@
 Ini baris satu 
-Ini baris dua 
-Ini baris tiga 
+Ini baris dua dan tiga 
 
 Tambah baris empat
